@@ -1,3 +1,0 @@
-# git-workshop
-license
-
